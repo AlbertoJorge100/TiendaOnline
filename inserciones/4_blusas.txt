@@ -1,0 +1,58 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+
+CATEGORIA BLUSAS	IDCATEGORIA = 4
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Mujeres rayas Blusas de moda de manga larga correas " , 35.40 , 4, "zara" , 500, "http://www.arrendamientoslamota.com.co/images/cate_5/640/Mujeres-rayas-Blusas-de-moda-de-manga-larga-correas-Shoulderless-Camisas-Mujer-Tops-de-verano-Blusas-Mujer-2019-10-T-JPFE505189-msn0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("DamarkTM Ropa Camisetas Mujer Camisas " , 35.40 , 4, "zara" , 500, "http://www.masquemis15.com/image/cache/data/category_29/DamarkTM%20Ropa%20Camisetas%20Mujer%20Camisas%20Mujer%20Verano%20Elegantes%20Apliques%20Casual%20Tallas%20Grandes%20Camisetas%20Mujer%20Manga%20Corta%20Camiseta%20Blusas%20Tops%20para%20Mujer%20Fiesta%20en%20la%20Playa%20Amarillo%20B07DLMW4GL-500x500-product_popup.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Blusas de verano para mujer 2019 otoño elegante de manga" , 35.40 , 4, "zara" , 500, "https://i3.wp.com/ae01.alicdn.com/kf/Hc5886577d7bf4c0e93bea078238dd910C/Blusa-de-gasa-de-oficina-para-mujer-blusa-camisa-casual-tops-m%C3%A1s-blusas-de-talla-grande.jpg_350x350.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Moda Mujer Blusa de gasa camisa de manga larga Mujer Tops " , 35.40 , 4, "zara" , 500, "http://www.rncirugia2015.com/bmz_cache/9/Moda%20Mujer%20Blusa%20de%20gasa%20camisa%20de%20manga%20larga%20Mujer%20Tops%20Oficina%20sentildeora%20Blusas%20femeninas%20Camisas%20Mujer%20ali-05446751_3_550x550.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("??Camisas Mujer Tallas Grande" , 35.40 , 4, "zara" , 500, "https://images-na.ssl-images-amazon.com/images/I/71MBe20pmBL._SY355_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Blusas de Moda - Linio México Mujer" , 35.40 , 4, "zara" , 500, "https://i.linio.com/p/da6a41e54b537d42d7cc4725270b1476-catalog.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Mujer V Cuello Media Manga Blusas Verano Femenino" , 35.40 , 4, "zara" , 500, "https://www.descuentosgrandes.me/img/products/38814-mujer-v-cuello-media-manga-blusas-verano-femenino-de-hombro-camisas-senoras-mujeres-casual-moda-tops.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("€ 2.65 |Verano mujeres Tops Encaje malla patchwork " , 35.40 , 4, "zara" , 500, "http://ae01.alicdn.com/kf/HTB1N6nrJVXXXXa4XVXXq6xXFXXXt.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Blusa Sin Mangas Elegante T467 | Blusas, Blusa negra y Blusas de encaje" , 35.40 , 4, "zara" , 500, "https://i.pinimg.com/originals/c1/49/69/c14969a34bece6e561d43a40743e71e3.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Blusa gasa contraste negro sin manga-blanco" , 35.40 , 4, "zara" , 500, "https://img.shein.com/images/sheinside.com/201405/1399873975121974902.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Descubre lo último en Blusas y Camisas de Mujer | PULL&BEAR" , 35.40 , 4, "zara" , 500, "https://static.pullandbear.net/2/photos/2019/I/0/1/p/9475/308/800/9475308800_1_1_3.jpg?t=1570111032809");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("2018 nuevas mujeres Blusa de gasa de gran tamaño XXL XXXL" , 35.40 , 4, "zara" , 500, "http://www.ponymoruva.co/images/cate_5/640/2018-nuevas-mujeres-Blusa-de-gasa-de-gran-tama%C3%B1o-XXL-XXXL-4xl-5xl-sin-mangas-del-tanque-camisetas-blanco-negro-rosa-azul-tops-mujeres-se%C3%B1oras-EWTH554732-jgz0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Preferencia Blanco Negro Gratis Tops Mujeres Sin Mangas" , 35.40 , 4, "zara" , 500, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3h1PhaUNcoj_oQixNwBgrpkTnFneDNRu3fZz3-LMGUdtUZ7G1&s");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Beauty7 Camisas Mujeres Manga Ruffle Asim¨¦trico Sin Tirante Gasa Cold Shoulder Vestido Verano Blusas T-Shirt" , 35.40 , 4, "zara" , 500, "http://www.katabiz.es/image/cache/data/category_16/Beauty7%20Camisas%20Mujeres%20Manga%20Ruffle%20Asimumlbrvbartrico%20Sin%20Tirante%20Gasa%20Cold%20Shoulder%20Vestido%20Verano%20Blusas%20TShirt%20Casual%20Tops%20Parte%20Superior%20Camisetas%20Tirantes%20Blanco%20Negro%20Blanco%20B073VDLJRB-500x500-product_popup.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Más tamaño 2xl 3xl 4XL 5XL negro blanco moda mujeres" , 35.40, 4, "zara" , 500, "https://home.roadsale.co/img/products/94006-mas-tamano-2xl-3xl-4xl-5xl-negro-blanco-moda-mujeres-blusas-estilo-femenino-casual-top-camisa-sin-mangas-sexy-encaje-tops.jpg");

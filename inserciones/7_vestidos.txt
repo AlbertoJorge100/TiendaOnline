@@ -1,0 +1,58 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+
+CATEGORIA VESTIDOS		IDCATEGORIA = 7
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestidos Chanel" , 80.00 , 7, "channel" , 500, "https://mlstaticquic-a.akamaihd.net/vestidos-chanel-D_NQ_NP_915698-MLU30979296899_062019-F.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestido corto con chaqueta estilo Chanel" , 80.00 , 7, "channel" , 500, "https://i.pinimg.com/originals/9a/49/5e/9a495e185fe9a3d8915056d30b62b3f1.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestido de fiesta corto con chaqueta tipo chanel" , 80.00 , 7, "channel" , 500, "https://i.pinimg.com/originals/c7/5e/30/c75e3027bd4f5515b96422a7095b0626.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vectry Vestidos Encaje Mujer Vestidos De Fiesta Cortos" , 80.00 , 7, "channel" , 500, "https://images-na.ssl-images-amazon.com/images/I/71-7ydmsd7L._UX679_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Lindos Vestidos Casuales Para Damas Cortos " , 80.00, 7, "channel" , 500, "https://i.pinimg.com/originals/4b/4c/c5/4b4cc5913cd9eaf41901901872e4b14a.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestidos casuales juveniles 2015 " , 80.00, 7, "channel" , 500, "https://i.pinimg.com/originals/e6/ba/df/e6badf575b4e31c83e74b194d35abade.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestido A media pierna llano de encaje plisado calado" , 80.00, 7, "channel" , 500, "http://cdn.cichic.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/1/0/10107482523-1/green-plain-lace-pleated-zipper-hollow-out-round-neck-midi-dress.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Aliexpress.com: Comprar Sexy borgoña vestidos fiesta Mini" , 80.00, 7, "channel" , 500, "https://i.pinimg.com/originals/f3/5f/7a/f35f7a8b626882f6e6b68ea493a29e59.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Oferta – Vestidos de mujer – Nueva colección 2019 | Elegrina" , 80.00, 7, "channel" , 500, "https://www.elegrina.es/media/catalog/product/cache/21/small_image/210x280/0dc2d03fe217f8c83829496872af24a0/m/a/marlena_4__2.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Viloree Empire Women Dress 50s Off Shoulder Swing Party Cocktail Knee Length" , 80.00, 7, "channel" , 500, "https://images-na.ssl-images-amazon.com/images/I/51uvUfo7gzL._UX466_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vectry Vestidos Casual De Mujer Vestidos Largos Casual Verano 2019 Vestidos Elegantes para Bodas Moda Mujer " , 80.00, 7, "channel" , 500, "http://www.seniorlab.es/image/cache/data/category_20/Vectry%20Vestidos%20Casual%20De%20Mujer%20Vestidos%20Largos%20Casual%20Verano%202019%20Vestidos%20Elegantes%20para%20Bodas%20Moda%20Mujer%202019%20Vestidos%20Vestido%20Nintildea%20Verano%20Vestidos%20Coctel%20Mujer%20Fiesta%20Vestidos%20Azul%20B07MHFM74B-500x500-product_popup.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vectry Vestidos Casuales Verano Moda Mujer 2019 Vestidos De Fiesta Vestidos De Fiesta Largos De Noche Elegantes " , 80.00, 7, "channel" , 500, "https://images-na.ssl-images-amazon.com/images/I/61Hkyh44JlL._UX385_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("2017 Nuevo color caramelo elegante Encaje vestido" , 80.00, 7, "channel" , 500, "https://ae01.alicdn.com/kf/HTB1gb1DOFXXXXajXXXXq6xXFXXXY/229957864/HTB1gb1DOFXXXXajXXXXq6xXFXXXY.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestido Damas Honor Boda Xv Encaje Floral Beige 2xl" , 80.00, 7, "channel" , 500, "https://http2.mlstatic.com/vestido-damas-honor-boda-xv-encaje-floral-beige-2xl-D_NQ_NP_725155-MLM29352393793_022019-Q.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vestidos para novia por el civil " , 80.00, 7, "channel" , 500, "https://fincalaalcudia.com/wp-content/uploads/2019/04/vestidos-novia-boda-civil-03.jpg");

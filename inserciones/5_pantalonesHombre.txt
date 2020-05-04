@@ -1,0 +1,58 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+
+CATEGORIA PANTALONES HOMBRES	IDCATEGORIA = 5
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vaquero Regular de hombre 501" , 45.00 , 5, "levi's" , 500, "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA02/CONTENIDOS/201508/31/00104240108508282_5__516x640.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("LEVIS 512 HOMBRE" , 45.00, 5, "levi's" , 500, "https://novaboutiqueonda.com/wp-content/uploads/2019/01/900002662726105_0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Gris Hombre - Ropa - Pantalones – aldoconti" , 45.00 , 5, "levi's" , 500, "https://aldoconti.vteximg.com.br/arquivos/ids/259629-325-440/delantera.jpg?v=636953832857200000");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones Casual Dockers para Hombre - Azul" , 45.00 , 5, "levi's" , 500, "https://i.linio.com/p/a5e6dfc080ce6aa9cc86dabcb7fd86c8-product.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones de Vestir Tallas Grandes Hombre" , 45.00 , 5, "levi's" , 500, "http://www.plusman.es/images/productos/zoom/103992-16.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones hombre | Price Shoes." , 45.00 , 5, "levi's" , 500, "https://smhttp-ssl-50034.nexcesscdn.net/pub/media/catalog/product/cache/small_image/330x330/beff4985b56e3afdbeabfc89641a4582/8/2/829157-1_8.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones - Falabella.com" , 45.00 , 5, "levi's" , 500, "https://falabella.scene7.com/is/image/FalabellaAR/881347557?wid=423&hei=423&qlt=70&crop=0,0,0,0");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Jeans para Hombres - Comprá Jeans Hombre | Dafiti Argentina" , 45.00 , 5, "levi's" , 500, "https://dafitistaticar-a.akamaihd.net/p/bravo-2214-567132-1-catalog-new.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vaqueros Levi´s 510 Hombre | Skinny Fit | 055100392" , 45.00 , 5, "levi's" , 500, "http://www.bestshopping.es/WebRoot/StoreES/Shops/63731684/57C9/9B72/DED6/992D/2ECE/C0A8/2AB9/87F7/Vaqueros_Levi_180_s_Hombre__124__Skinny_Fit__124__055100392.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vaquero de hombre Levi´s 512 slim azul · Levi's · Moda" , 45.00 , 5, "levi's" , 500, "https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201901/24/00112211100347____1__516x640.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Sfera · Moda · El Corte Inglés" , 45.00 , 5, "levi's" , 500, "http://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201910/29/00197956127464____1__516x640.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Jeans Hombre Levi's 519 Extreme Skinny Stretch Azul" , 45.00 , 5, "levi's" , 500, "https://http2.mlstatic.com/jeans-hombre-levis-519-extreme-skinny-stretch-azul-D_NQ_NP_629289-MLA31131729828_062019-Q.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("€66.64, Vaqueros - Venca Pantalón jeans skinny hombre 510 US32 LEVI´S® - Lupine | Eventsfactory.es" , 45.00 , 5, "levi's" , 500, "http://www.eventsfactory.es/images/nhf/Venta%20de%20Venca%20Pantal%C3%B3n%20jeans%20skinny%20hombre%20510%20US32%20LEVI%C2%B4S%C2%AE%20-%20Lupine.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Jeans | Hites" , 45.00 ,5, "levi's" , 500, "https://checkout.hites.com/wcsstore/HitesCAS//images/catalog/400x400/HOMBRE_SPORT/778704001_0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalón Jean Pitilo Hombre" , 45.00 , 5, "levi's" , 500, "https://http2.mlstatic.com/pantalon-jean-pitilo-hombre-D_NQ_NP_922570-MPE31255611607_062019-Q.jpg");

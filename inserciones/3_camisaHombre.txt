@@ -1,0 +1,64 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+
+CATEGORIA CAMISAS HOMBRE		IDCATEGORIA = 3
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisa Polo Juvenil Manga Corta - en Tres Colores - en Gris, Verde y Negro" , 30.00 , 3, "lacoste" , 500, "http://d26lpennugtm8s.cloudfront.net/stores/012/471/products/htb10txcmpxxxxczxfxxq6xxfxxxx-gr-862409bbdea77978c709912e3bebbe93-640-0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Blend Johansus - Camisa Polo para Hombre" , 30.00 , 3, "lacoste" , 500, "https://images-na.ssl-images-amazon.com/images/I/91j8yAmJmhL._UY445_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camiseta Polo transpirable para hombre, camisa de manga corta" , 30.00 , 3, "lacoste" , 500, "http://claboutique.com/images/detailed/369/Camiseta-Polo-transpirable-para-hombre-con-dise-o-de-Polos-para-hombre-camisa-de-manga-corta.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisa de manga corta para hombre Camisa de moda para diseño en rejilla" , 30.00 , 3, "lacoste" , 500, "https://gloimg.samcdn.com/S/pdm-provider-img/straight-product-img/20180103/WWW5149/WWW51490083/source-img/140607-8722.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisa Moderna Sport Chic - Mangas 3/4 - en 4 Colores" , 30.00 , 3, "lacoste" , 500, "http://d26lpennugtm8s.cloudfront.net/stores/012/471/products/htb1nvzplvxxxxbnxxxxq6xxfxxx9-verde-7d6d9cf0602d8ff1fdbb1c5577616bf4-640-0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Charles Wilson Camisa Franela de Cuadros Manga Larga" , 30.00 , 3, "lacoste" , 500, "http://www.seniorlab.es/image/cache/data/category_32/Charles%20Wilson%20Camisa%20Franela%20de%20Cuadros%20Manga%20Larga%20para%20Hombre%20Blue%20amp%20Brown%20B07L4XF23W-500x500-product_popup.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisas para Hombre - Comprá Camisas Masculinas " , 30.00 , 3, "lacoste" , 500, "https://dafitistaticar-a.akamaihd.net/p/valkymia-3596-254872-1-catalog-new.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Beige De Manga Larga Camisetas Explorer" , 30.00 , 3, "lacoste" , 500, "http://www.hikoreanfashion.com/75976-thickbox_default/beige-de-manga-larga-camisetas-explorer.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Compre Sólido Casual Lino Camisas De Hombre " , 30.00 , 3, "lacoste" , 500, "https://www.dhresource.com/0x0/f2/albu/g2/M01/CB/0B/rBVaG1oJZr-AEo7cAAKbB2sNx34757.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("ELEVATE Camisa "Manitoba"" , 30.00 , 3, "lacoste" , 500, "https://www.regalosdeempresasequio.com/163473-large_default/elevate-camisa-manitoba.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Cuello Redondo De Manga Larga para Hombre Básica Delgado " , 30.00 , 3, "lacoste" , 500, "http://www.tipstersworld.es/image/cache/data/category_43/Cuello%20Redondo%20De%20Manga%20Larga%20para%20Hombre%20Baacutesica%20Delgado%20Camisa%20Ocasional%20Tipo%20Camiseta%20Primavera%20Otontildeo%20Moda%20Color%20Soacutelido%20Camisetas%20Baacutesicas%20Tops%20Blau%20B07K9PVF3K-500x500_0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisas de Hombres - Se venden Camisas Casuales para Hombre" , 30.00 , 3, "lacoste" , 500, "https://img.bgxcdn.com/thumb/view/oaupload/ser1/banggood/images/46/8F/de4e3077-ec8d-4869-a9d6-f5d450452856.jpeg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Thomas Mason A Medida Camisa Para Hombres-hecho A Mano" , 30.00 , 3, "lacoste" , 500, "https://imgredirect.milanuncios.com/fg/2795/09/279509147_1.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisa de vestir de negocios de moda para hombres" , 30.00 , 3, "lacoste" , 500, "https://www.dhresource.com/0x0s/f2-albu-g9-M01-62-51-rBVaWFyVd_aAWp9mAARk--y2yXM011.jpg/camisa-de-vestir-de-negocios-de-moda-para.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Camisa polo roja de Emporio Armani" , 30.00 , 3, "lacoste" , 500, "https://cdn.lookastic.mx/camisa-polo-roja/emporio-armani-original-6985233.jpg");
+
+
+
+
+
+

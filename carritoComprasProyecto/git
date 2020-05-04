@@ -1,0 +1,67 @@
+[1mdiff --git a/build/web/WEB-INF/classes/Utilerias/Url.class b/build/web/WEB-INF/classes/Utilerias/Url.class[m
+[1mindex 5b18f1f..c428c21 100644[m
+Binary files a/build/web/WEB-INF/classes/Utilerias/Url.class and b/build/web/WEB-INF/classes/Utilerias/Url.class differ
+[1mdiff --git a/build/web/perfil.jsp b/build/web/perfil.jsp[m
+[1mindex 3a8226e..f8c189f 100644[m
+[1m--- a/build/web/perfil.jsp[m
+[1m+++ b/build/web/perfil.jsp[m
+[36m@@ -47,7 +47,7 @@[m
+             else{[m
+                 url.Listar(12,10);[m
+             }            [m
+[31m-            lista=url.getLista();[m
+[32m+[m[32m            //lista=url.getLista();[m
+             lista=url.getLista();[m
+             HttpSession sesion = request.getSession();[m
+             sesion.removeAttribute("lst");[m
+[1mdiff --git a/src/java/Utilerias/Url.java b/src/java/Utilerias/Url.java[m
+[1mindex 01afdc1..e3cd54d 100644[m
+[1m--- a/src/java/Utilerias/Url.java[m
+[1m+++ b/src/java/Utilerias/Url.java[m
+[36m@@ -34,9 +34,6 @@[m [mpublic class Url {[m
+             //si idC es menor a cero no existe una conexion abierta entonces la creamos[m
+             List <Object> parametros=new ArrayList<Object>();[m
+             String resultados[][]=null;[m
+[31m-            [m
+[31m-            [m
+[31m-            [m
+             if(idC<0){                [m
+                 conn=new ConexionJDBC();[m
+                 conn.Conectar(); [m
+[36m@@ -78,22 +75,7 @@[m [mpublic class Url {[m
+         }[m
+   [m
+     }[m
+[31m-    /*[m
+[31m-    private List<Productos> getLista(){[m
+[31m-        try{[m
+[31m-            int aleatorio=0;[m
+[31m-            ConexionJDBC conn=new ConexionJDBC();[m
+[31m-            conn.Conectar();[m
+[31m-            Operaciones.abrirConexion(conn);[m
+[31m-            List<Integer>lst=new ArrayList<Integer>();[m
+[31m-            aleatorio=(int)((Math.random()*100)+5);[m
+[31m-            while(aleatorio<110){[m
+[31m-                [m
+[31m-            }[m
+[31m-        }catch(Exception e){[m
+[31m-            System.out.println("error al obtener los productos -> " + e);[m
+[31m-        }retyr}[m
+[31m-    }*/[m
+[32m+[m[41m [m
+     private boolean buscarProducto(long id){[m
+         boolean enc=false;[m
+         int i=0;[m
+[1mdiff --git a/web/perfil.jsp b/web/perfil.jsp[m
+[1mindex 3a8226e..f8c189f 100644[m
+[1m--- a/web/perfil.jsp[m
+[1m+++ b/web/perfil.jsp[m
+[36m@@ -47,7 +47,7 @@[m
+             else{[m
+                 url.Listar(12,10);[m
+             }            [m
+[31m-            lista=url.getLista();[m
+[32m+[m[32m            //lista=url.getLista();[m
+             lista=url.getLista();[m
+             HttpSession sesion = request.getSession();[m
+             sesion.removeAttribute("lst");[m

@@ -1,0 +1,58 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+
+CATEGORIA PANTALONES MUJER	IDCATEGORIA = 6
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Sannysis Pantalones Mujer Jeans Pantalones Rotos Flacos Cintura Alta" , 38.00 , 6, "yerse" , 500, "https://images-na.ssl-images-amazon.com/images/I/51JK8HPAisL._UX679_.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones Mujer 2018 Pantalones Capri Pantalones Lápiz" , 38.00 ,6, "yerse" , 500, "http://www.barataropa.com/image/m/Pantalones-Mujer-2018-Pantalones-Capri-Pantalones-L%C3%A1piz-Spring-Irregular-Casuales-Color-S%C3%B3lido-Blanco-8257.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones de Mujer - Comprá Pantalones en Dafiti" , 38.00, 6, "yerse" , 500, "https://dafitistaticar-a.akamaihd.net/p/consentina-0662-783593-1-catalog-new.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("2019 nuevo ejército verde bolsillos Pantalones Mujer moda" , 38.00 , 6, "yerse" , 500, "http://www.bielafest.co/images/cate_9/640/2019-nuevo-ej%C3%A9rcito-verde-bolsillos-Pantalones-Mujer-moda-algod%C3%B3n-estilo-Safari-alta-el%C3%A1stico-Skinny-Jeans-Mujer-cintura-baja-Patchwork-Pantalones-Xd2Si7Uj9-cwr0.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Otoño 2018 lápiz tres botones Pantalones mujer Slim" , 38.00 , 6, "yerse" , 500, "http://cdn.shopify.com/s/files/1/0060/2773/9203/products/Oto-o-2018-l-piz-tres-botones-Pantalones-mujer-Slim-Legging-pantalones-mujeres-blanco-alta-cintura_1200x1200.jpg?v=1542597471");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("LEVIS 710 SUPER SKINNY OCEAN DRIFT DOT" , 38.00 , 6, "yerse" , 500, "https://www.coresurfingshop.com/2793-large_default/xlevis-710-super-skinny-ocean-drift-dot.jpg.pagespeed.ic.8c98JPZI3t.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("PANTALON DE VESTIR CHOPPARD 1196 ~ DAMA Azul" , 38.00 , 6, "yerse" , 500, "https://smhttp-ssl-50034.nexcesscdn.net/pub/media/catalog/product/cache/image/700x560/e9c3970ab036de70892d86c6d221abfe/1/7/176049-1_6.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pin de Vanessa Bocanegra Rojas en moda en 2019 | Pantalones " , 38.00, 6, "yerse" , 500, "https://i.pinimg.com/originals/9d/42/d0/9d42d0cea0f27cf6e9f46991106d6332.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Jeans Para Mujer , Replay" , 38.00 , 6, "yerse" , 500, "https://pilatos.vteximg.com.br/arquivos/ids/203367-1000-1000/Jeans-Mujeres_Wx68900069Cd22_011_1.jpg?v=636885160042930000");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Jean Mujer Elastizado Tiro Alto Pantalon Clasico Chupin" , 38.00 , 6, "yerse" , 500, "https://www.sakuravistebonito.com/wp-content/uploads/2019/08/656270-MLA31645200504_072019-O.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Ref: 003vmil JEAN COLOR VERDE MILITAR en 2019 | Pantalones " , 38.00 , 6, "yerse" , 500, "https://i.pinimg.com/564x/f2/ea/6d/f2ea6d9e4f00ab8985c656b33a8f1370.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("YFLTZ Pantalones Jeans básicos de Mujer - Color sólido" , 38.00 , 6, "yerse" , 500, "http://www.decoimpresion.net/images/category_4/YFLTZ%20Pantalones%20Jeans%20baacutesicos%20de%20Mujer%20-%20Color%20soacutelido%20%20Agujero%20-%20B07G5ZK3T5.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones - Falabella.com" , 38.00 , 6, "yerse" , 500, "https://falabella.scene7.com/is/image/FalabellaCO/881526285?wid=846&hei=846&qlt=70&crop=0,0,0,0");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Pantalones Mujer : Bota adidas TERREX Swift R2 Mid GTX" , 38.00 , 6, "yerse" , 500, "http://www.musicnumbers.es/images/category_7/Pantalon%20Naf%20Naf%20HENP%2037%20Verde%20Verde%20100%20tencel%20Pantalones%20Mujer%20Pantalon%20Naf%20Naf%20Modelo%20Henp%2037%20Color%20verde%20Formato%20largo%20Tiro%20alto%20Detalle%20de%20volantes%20en%20la%20cintura%20Cinturon%20de%20lazo%20Tejido%20fluido%20Bolsillos%20laterales%20Bolsillos%20traseros%20La%20.jpg");
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Muaa Jean Rosa Muaa Rosies Mujer Jeans MU375AB43JKYAR bXNAt7TV" , 38.00 , 6, "yerse" , 500, "http://www.roxand.es/image/cache/data/category_3/muaa-jean-rosa-muaa-rosies-mujer-jeans-mu375ab43jkyar-bxnat7tv-196-500x500_0.jpg");

@@ -1,0 +1,93 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+bb
+
+
+CATEGORIA CALZADO MUJER		IDCATEGORIA = 2
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Distribuidora Calzado Reynaldo Lazo" , 40.00 , 2 , "lemai" , 500, "https://s3.amazonaws.com/wwwmercadocr/items/distribuidora-calzado-reynaldo-lazo-zapatos-santory-tienda-en-linea-zapatos-moda-0-0-1.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Botines De Altos Tacón Mujer" , 40.00, 2 , "lemai" , 500, "https://images-na.ssl-images-amazon.com/images/I/51dLeZ-yhEL._UY500_.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Tacones Altos 2017" , 40.00, 2, "lemai" , 500, "https://i.pinimg.com/originals/21/55/fd/2155fd52abc617a2858f4b9fcac0be71.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("cute toes & heels" , 40.00, 2, "lemai" , 500, "https://i.pinimg.com/originals/64/1f/5c/641f5c6e0d60b402830bfa0b4c8406be.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatos de invierno para mujer" , 40.00, 2, "lemai" , 500, "http://www.insidemortgages.es/images/cate_1/640/Zapatos-de-invierno-para-mujer-2018-zapatillas-de-moda-para-mujer-zapatos-vulcanizados-cesta-mujer-PU-malla-c%C3%B3modas-zapatillas-tenis-femenino-IYXM31711858-tfi0.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Calzado Moda Tenis Negro Para Dama " , 40.00, 2, "lemai" , 500, "https://http2.mlstatic.com/calzado-moda-tenis-negro-para-dama-zapatos-moda-para-mujer-D_NQ_NP_775311-MCO27142404911_042018-F.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Roxy Botas Modernas repujadas " , 40.00, 2, "lemai" , 500, "https://images-na.ssl-images-amazon.com/images/I/81rspeMV-OL._SX500_.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("shoefashionista-zapatos-de-mujer" , 40.00, 2, "lemai" , 500, "https://i.pinimg.com/originals/47/12/93/4712933b76ddc37a6bbcb0a0d5761583.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Botas de tacón de aguja doble hebilla" , 40.00, 2, "lemai" , 500, "https://cdn.fashiola.mx/L534499253/newchic-botas-de-tacon-de-aguja-doble-hebilla.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatos de mujer con plataforma y tacón aguja " , 40.00, 2, "lemai" , 500, "https://i.pinimg.com/originals/f2/41/55/f24155509f77b8d75dc3dde9f621acb7.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatos de mujer con plataforma " , 40.00, 2, "lemai" , 500, "https://i.pinimg.com/originals/21/b3/bd/21b3bdd36d2018936d15cfe694ad46c6.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values(" Hermosos Zapatos de Plataforma " , 40.00, 2 , "lemai" , 500, "https://i.pinimg.com/736x/5d/c4/f4/5dc4f458e11ed71a91a9893d0598f2f9.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Daytwork Mujer Moda Tacones Altos Puntiagudos" , 40.00, 2, "lemai" , 500, "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xG3LkB4p8bAnzz8TvlPRtyIAhsfVb3Jlq8WlGNw4ZLI2MnJG&s");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("sandalias de mujer plataforma" , 40.00, 2, "lemai" , 500, "https://www.sandalias.tacones-altos.net/AMUSE-10-sandalias-mujer-beige-talla-37-38.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Mujer Tira en Tobillo Punta Abierta " , 40.00, 2, "lemai" , 500, "http://www.hopsbuzz.co/images/category_18/Mujer%20Tira%20en%20Tobillo%20Punta%20Abierta%20Mujer%20Tac%C3%B3n%20Aguja%20Tacones%20Plataforma%20Fiesta%20VmHMCwdj.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Plata Piedras Strass 13 cm COCKTAIL-526" , 40.00, 2, "lemai" , 500, "https://www.tacones-altos.net/images/product_images/popup_images/Plata-Piedras-Strass-13-cm-COCKTAIL-526-Zapatos-Tacon-Aguja-Plataforma-7391_0.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Oro Calzado En Plataforma Alta Miel A La Moda Para Mujer" , 40.00, 2, "lemai" , 500, "http://www.oreyitradeweb.es/images/category_15/Oro%20Calzado%20En%20Plataforma%20Alta%20Miel%20A%20La%20Moda%20Para%20Mujer%20Dama%20Popular%20GsBC71okdc.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Botines Mujer Cuña Planos Invierno Planas Botas Tacon Casual" , 40.00, 2, "lemai" , 500, "http://www.paolorenatodidonato.es/images/cate_4/640/Botines-Mujer-Cu%C3%B1a-Planos-Invierno-Planas-Botas-Tacon-Casual-Zapatos-para-Dama-Plataforma-5cm-Elegante-Zapatillas-Calzado-Moda-Negro-Rosa-Marrone-Grigio-3443-Azul-Eyj0XbYg4t2F-rnd0.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatillas Deportivas de Mujer Cuña Sneakers Plataforma " , 40.00, 2, "lemai" , 500, "http://www.pedalaperlavida.es/images/cate_16/640/Zapatillas-Deportivas-de-Mujer-Cu%C3%B1a-Sneakers-Plataforma-Casual-Zapatos-para-Dama-Ante-Piel-Tacon-5cm-Botines-Elegante-Calzado-Moda-Negras-Rosa-Gris-3443-Mn9V4Cb9Ia8Jk-yfe0.jpg");
+
+
+
+
+

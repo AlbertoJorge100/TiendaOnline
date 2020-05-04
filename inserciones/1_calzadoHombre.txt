@@ -1,0 +1,101 @@
+categoria            idcategoria
+
+calzadoHombre		1
+calzadoMujer 		2
+camisasHombre           3
+blusas                  4
+pantalonesHombre        5
+pantalonesMujer         6
+vestidos 		7
+
+
+insert into categorias values(1,"calzado hombre","");
+insert into categorias values(2,"calzado mujer","");
+insert into categorias values(3,"camisas hombre","");
+insert into categorias values(4,"blusas","");
+insert into categorias values(5,"pantalones hombre","");
+insert into categorias values(6,"pantalones mujer","");
+insert into categorias values(7,"vestidos","");
+
+
+
+CATEGORIA CALZADOHOMBRE			IDCATEGORIA=1
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Clarks Edgewood Mix Zapatos Casual para Hombres - Calzados Vesga" , 60.35 , 1 , "nike" , 500, "https://www.calzadosvesga.com/76474-large_default/clarks-edgewood-mix-zapatos-casual-para-hombres.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Logobeing Calzado Deportivo Hombre Running Zapatillas" , 60.35 , 1 , "nike" , 500, "https://images-na.ssl-images-amazon.com/images/I/61WS-Ui1cLL._UY500_.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Calzado casual de negocios para hombres" , 60.35 , 1 , "nike" , 500, "https://gloimg.gbtcdn.com/soa/gb/pdm-provider-img/straight-product-img/20181112/goods_img_big-v1/2018111212035559628.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Logobeing Zapatillas de Running de Hombre Deporte " , 60.35 , 1 , "nike" , 500, "https://images-na.ssl-images-amazon.com/images/I/61N9Y0U3LZL._UY500_.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Hombres botas moda invierno con felpa " , 60.35 , 1 , "nike" , 500, "http://www.garciadelacampiza.es/image/cache/data/category_43/Hombres%20botas%20moda%20invierno%20con%20felpa%20botines%20nieve%20botas%20hombre%20invierno%20botas%20de%20trabajo%20Zapatos%20Hombre%20calzado%20Casual%20ali33169750-500x500-product_popup.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("VANS OLD SKOOL zapatillas clásicas para hombre" , 60.35 , 1 , "nike" , 500, "http://www.entrerisasyverdades.co/images/cate_2/640/VANS-OLD-SKOOL-zapatillas-cl%C3%A1sicas-para-hombre-zapatos-de-lona-zapatos-deportivos-zapatos-de-levantamiento-de-peso-negro-tama%C3%B1o-de-env%C3%ADo-gratis-4044-WNYG81651801-zxm0.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("La mejor selección de Auténtico Zapatos deportivos Vans " , 60.35 , 1 , "nike" , 500, "http://www.moonbabiesuniverse.com/images/large/products/Aut%20ntico%20Zapatos%20deportivos%20Vans%20Au%201473_LRG.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Calzado Calzado Bedford Y Hombre Hombre Hombre Deporte Vans" , 60.35 , 1 , "nike" , 500, "http://www.bonitozapatos.es/images/skjfjvgsyue/Perfecto%202017%20Bedford%20Vans%20Hombre%20Zapatillas%20De%20Deporte%20Y%20Calzado%20Deportivo%20De%20Moda%20Lo6cha40%20Sitio%20Tubo%20De%20Salida%20Madrid%201927.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Ruanyi Mocasines sin Cordones para Hombre Calzado Casual con Borla Delantera Zapatos de Barco con Punta " , 60.35 , 1 , "nike" , 500, "http://www.mdobato.es/image/cache/data/category_18/Ruanyi%20Mocasines%20sin%20Cordones%20para%20Hombre%20Calzado%20Casual%20con%20Borla%20Delantera%20Zapatos%20de%20Barco%20con%20Punta%20Redonda%20Superior%20de%20Cuero%20Mocasines%20para%20Hombres%20de%20Negocios%20livianos%20y%20coacutemodos%2042%20EU%20B07PRR2NKT-500x500-product_popup.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Compre Botas Casuales Para Hombres Botas De Cuero Hechas A Mano De Cuero Calzado Casual Para Hombres " , 60.35 , 1 , "nike" , 500, "https://www.dhresource.com/600x600/f2/albu/g6/M01/FB/27/rBVaSFvgQdaAQEfNAAMc_ZVZjNI521.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Converse Chuck Taylor® All Star® Canvas High Top Zapatos" , 60.35 , 1 , "nike" , 500, "http://www.sakoutisbuilders.com/images/large/products/Converse%20Chuck%20Taylor%20All%20Star%20Canvas%20High%20Top%20Zapatos%20deportivos%20Hombre%20Negro%20-%20Zapatos%20Converse%20Hombre%20R69f1861_LRG.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Converse Chuck Taylor All Star Calzado Deportivo Hi Calle" , 60.35 , 1 , "nike" , 500, "http://www.madridempresadelimpieza.es/images/bioeojf2/Perfecto%20Converse%20Chuck%20Taylor%20All%20Star%20Calzado%20Deportivo%20Hi%20Calle%20Buey%20De%20Cuero%20Para%20Hombre%20De%20Truenos%20Cuero%20Negro%20Blanco%20Outlet%203617.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("primero Hombres otoño zapatos de negocios transpirable" , 60.35 , 1 , "nike" , 500, "http://www.colombiaeurotravel.com.co/images/cate_2/640/primero-Hombres-oto%C3%B1o-zapatos-de-negocios-transpirable-Antideslizante-hombres-calzado-Casual-calzado-moda-caucho-negro-suave-Flock-zapato-hombres-Yf0Mo3Sz2-etp0.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatos para hombre Zapatos deportivos marrones Globe Mahalo" , 60.35 , 1 , "nike" , 500, "http://www.carnisseria.es/images/images/category_4/Zapatos-para-hombre-Zapatos-deportivos-Converse-All-Star-para-hombre-XSWBX-d9k.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Bota Florsheim #Zapato #Calzado #Cuero #Formal #Estilo #Moda " , 60.35 , 1 , "nike" , 500, "https://i.pinimg.com/originals/57/d1/d9/57d1d912697ee8766a5175e762fa9055.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Zapatos para hombres - Botas | Johannesburg Summit" , 60.35 , 1 , "nike" , 500, "http://www.johannesburgsummit.org/wp-content/uploads/2016/12/botas-para-hombre-678x381.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Vans | Zapatillas Hombre | Calzado | Ripley Perú" , 60.35 , 1 , "nike" , 500, "https://home.ripley.com.pe/Attachment/WOP_2/2025171716534/2025171716534-1.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Chaussure Vans" , 60.35 , 1 , "nike" , 500, "https://www.chausty.com/FS/e/4/d/Atom2452495.jpg");
+
+
+insert into productos (nombreProducto , Precio , idCategoria , Marca , Existencias , fotoProducto)
+values("Tenis Vans para Hombre" , 60.35 , 1 , "nike" , 500, "https://http2.mlstatic.com/D_NQ_NP_957452-MCO31844142872_082019-W.jpg");
+
+
+
+
