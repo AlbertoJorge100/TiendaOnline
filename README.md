@@ -1,1 +1,1 @@
-Tienda Online, utilizando Java Server Pages, de Java y Java Persistence Api
+Tienda Online, utilizando Java Server Pages y Java Persistence Api
